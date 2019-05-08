@@ -1,6 +1,6 @@
-lib/
-include/
-bin/
+./lib/
+./include/
+./bin/
 .idea/
 .env
 *.sqlite3
